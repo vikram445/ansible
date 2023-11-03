@@ -12,3 +12,8 @@ Topics Covered:  (Configuring Agents, Various Methods, Distributing Loads, Execu
         - Assign this node to Assignment 3
         Configure a Windows node using method of your choice
         - Download one sample application of .NET and build it on Windows Node.
+
+
+
+
+https://github.com/parsugit/ansible_practice/edit/main/jenkins-03.md [[ jenkins 3rd assignmnet slave/workspace/java]]
